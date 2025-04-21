@@ -197,7 +197,7 @@ const experiences = [
     icon: freelancericon,
     iconBg: "#000000",
     points: [
-      "Collaborated closely with clients to understand their needs, translating business requirements into efficient and user-friendly digital products",
+      "Collaborated closely with clients to understand their needs, translating business requirements into efficient and user experience and visually appealing digital products",
       "Managed end-to-end project lifecycles, ensuring timely delivery, quality assurance, and client satisfaction through continuous feedback and iteration.",
       "Contributed to technical projects by creating clear and concise documentation and content to enhance project communication",
     ],
