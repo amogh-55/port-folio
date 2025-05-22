@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I'm a passionate software developer expertise in Java, Web development with Next JS, MERN stack, Machine learning, and cloud technologies like AWS, Docker and Kubernetes. I thrive on solving real-world problems by creating innovative, scalable, and efficient digital solutions. Always eager to explore new technologies, I focus on delivering impactful results and collaborating on projects that make a difference. Let’s work together to bring your ideas to life!"
+       I’m a passionate software developer with expertise in Java, React Native, Next.js, and the MERN stack, alongside experience as a Machine Learning Engineer and proficiency in cloud technologies like AWS, Docker, and Kubernetes. I thrive on solving real-world problems by building innovative, scalable, and efficient digital solutions. I focus on delivering impactful results and collaborating on projects that truly make a difference. Let’s work together to bring your ideas to life!"
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

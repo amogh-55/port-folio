@@ -153,7 +153,7 @@ const experiences = [
       "Contributed to the development of FundPitch, a startup-investor matchmaking platform, using Next.js, TypeScript, and PostgreSQL, supporting seamless interactions for 5,000+ active users",
       "Reduced operational costs by 40% through resource optimization while maintaining application performance and user experience",
       "Engineered secure pitch submission workflows and intelligent investor-founder matching logic, leading to a 60% boost in qualified user engagement",
-      "Designed and integrated real-time dashboards with role-based access control, enhancing decision-making and increasing user retention by 35%",
+      " Built mobile interfaces for Blue Cross using React Native, optimizing rescue workflows and enabling 60+ capture/release reports, resulting in a 50% reduction in operational costs through automation",
       "Led the frontend development of Recruit GPT, an AI-driven recruitment platform, improving interviewer-candidate matchmaking by leveraging Next.js and Tailwind CSS",
     ],
   },
