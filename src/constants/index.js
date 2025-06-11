@@ -145,16 +145,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Equippp ThreePointoLabs",
+    title: "ThreePointoLabs",
     icon: threep,
     iconBg: "#000000",
     date: "Mar 2025 - present",
     points: [
-      "Contributed to the development of FundPitch, a startup-investor matchmaking platform, using Next.js, TypeScript, and PostgreSQL, supporting seamless interactions for 5,000+ active users",
-      "Reduced operational costs by 40% through resource optimization while maintaining application performance and user experience",
-      "Engineered secure pitch submission workflows and intelligent investor-founder matching logic, leading to a 60% boost in qualified user engagement",
-      " Built mobile interfaces for Blue Cross using React Native, optimizing rescue workflows and enabling 60+ capture/release reports, resulting in a 50% reduction in operational costs through automation",
-      "Led the frontend development of Recruit GPT, an AI-driven recruitment platform, improving interviewer-candidate matchmaking by leveraging Next.js and Tailwind CSS",
+      "Led the development of Blue Cross admin web app using Next.js, PostgreSQL, and Tailwind CSS, building 10+ modules for vehicle and team management, improving coordination for 150+ monthly rescue missions and streamlining tasks for 8+ field teams",
+      "Built mobile interfaces for Blue Cross using React Native to streamline rescue operations, enabling 60+ monthly capture and release reports driving workflow automation and further reducing operational costs by 50%",
+      "Translated Figma prototypes into scalable, pixel-perfect user interfaces with Next.js and Tailwind CSS, enhancing UI/UX and platform responsiveness for the AI-powered recruitment tool RecruitGPT",
+      "Developed and maintained RecruitGPT, an AI-powered recruitment platform used by 2,000+ students, consolidating resume uploads, interviews, and onboarding—eliminating the need for third-party tools like Zoom",
     ],
   },
   {
