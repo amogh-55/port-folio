@@ -148,7 +148,7 @@ const experiences = [
     title: "ThreePointoLabs",
     icon: threep,
     iconBg: "#000000",
-    date: "Mar 2025 - present",
+    date: "Jan 2025 - oct 2025",
     points: [
       "Led the development of Blue Cross admin web app using Next.js, PostgreSQL, and Tailwind CSS, building 10+ modules for vehicle and team management, improving coordination for 150+ monthly rescue missions and streamlining tasks for 8+ field teams",
       "Built mobile interfaces for Blue Cross using React Native to streamline rescue operations, enabling 60+ monthly capture and release reports driving workflow automation and further reducing operational costs by 50%",
@@ -161,7 +161,7 @@ const experiences = [
     icon: teli,
     company_name:"SDE Developer Intern",
     iconBg: "#000000",
-    date: "Oct 2024 - Jan 2025",
+    date: "Oct 2024 - dec 2024",
     points: [
       "Engineered a user-friendly application that delivers essential ingredients and step-by-step instructions, guiding 1,200+ users through the cooking process for over 65+ diverse recipes",
       "Proposed easy-to-follow culinary guides focusing on essential techniques and straightforward steps; this initiative amplified the overall cooking experience for users while increasing positive ratings by an impressive 70%",
