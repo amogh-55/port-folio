@@ -37,6 +37,7 @@ import threep from '../assets/company/three.png';
 import { t } from "maath/dist/misc-7d870b3c.esm";
 import nextjs from '../assets/tech/nextjs.png';
 import postgres from '../assets/tech/postgres.png';
+import dofare from '../assets/company/dof.png';
 
 import aws from '../assets/tech/aws.png';
 import fundPitch from '../assets/tech/fund.png';
@@ -145,13 +146,25 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Doffair Technologies",
+    icon: dofare,
+    iconBg: "#000000",
+    date: "Oct 2025 - present",
+    points: [
+      "Spearheaded the development of B2C marketplace platform connecting pet owners with groomers and veterinarians, building end-to-end features across Angular frontend, Node.js/Express & FastAPI backends, and MongoDB, handling 120+ service providers, and real-time service discovery and scheduling",
+      "Build core provider workflows including service creation/editing, staff assignment, document verification, reviews & ratings, and calendar-based scheduling with real-time booking state transitions",
+      "Implemented the transactions & payouts module, aggregating 500+ completed bookings, applying 8% platform commission logic, calculating outstanding balances, and generating weekly payout summaries, enabling transparent revenue tracking and provider settlements",
+      "Devised 50+ REST APIs, validated via Swagger, ensuring reliable frontend–backend integration and consistent data flow across provider and booking workflow"
+    ],
+  },
+  {
     title: "ThreePointoLabs",
     icon: threep,
     iconBg: "#000000",
     date: "Jan 2025 - oct 2025",
     points: [
-      "Led the development of Blue Cross admin web app using Next.js, PostgreSQL, and Tailwind CSS, building 10+ modules for vehicle and team management, improving coordination for 150+ monthly rescue missions and streamlining tasks for 8+ field teams",
-      "Built mobile interfaces for Blue Cross using React Native to streamline rescue operations, enabling 60+ monthly capture and release reports driving workflow automation and further reducing operational costs by 50%",
+      "Engineered core modules of Blue Cross admin web app using Next.js, PostgreSQL, and Typescript, building 10+ modules for vehicle & team management, improving coordination for 150+ monthly rescue missions and streamlining tasks for 8+ field teams",
+      "Constructed mobile interfaces for Blue Cross using React Native to streamline rescue operations, enabling 60+ monthly capture and release reports driving workflow automation and further reducing operational costs by 50%",
       "Translated Figma prototypes into scalable, pixel-perfect user interfaces with Next.js and Tailwind CSS, enhancing UI/UX and platform responsiveness for the AI-powered recruitment tool RecruitGPT",
       "Developed and maintained RecruitGPT, an AI-powered recruitment platform used by 2,000+ students, consolidating resume uploads, interviews, and onboarding—eliminating the need for third-party tools like Zoom",
     ],
@@ -163,9 +176,10 @@ const experiences = [
     iconBg: "#000000",
     date: "Oct 2024 - dec 2024",
     points: [
-      "Engineered a user-friendly application that delivers essential ingredients and step-by-step instructions, guiding 1,200+ users through the cooking process for over 65+ diverse recipes",
-      "Proposed easy-to-follow culinary guides focusing on essential techniques and straightforward steps; this initiative amplified the overall cooking experience for users while increasing positive ratings by an impressive 70%",
-      "Enlisted over 100 user-friendly recipes that emphasized clear cooking techniques, enhancing the culinary experience for users and leading to a noticeable increase in app users by 1,000 within three months",
+      "Led the design and implementation of a user-friendly responsive web application using React.js and Tailwind CSS, inreasing user engagement by 30% and boosting positive ratings by an impressive 70%",
+      "Led the design and implementation of a user-friendly responsive web application using React.js and Tailwind CSS, increasing user engagement by 30% and boosting positive ratings by an impressive 70%",
+      "Optimized database queries in MongoDB, reducing query response time by 20%",
+      "Deployed the application using CI/CD pipelines with Docker, ensuring scalability and achieving 99.9% uptime",
     ],
   },
   {
