@@ -147,6 +147,7 @@ const technologies = [
 const experiences = [
   {
     title: "Doffair Technologies",
+    company_name: "Software Engineer",
     icon: dofare,
     iconBg: "#000000",
     date: "Oct 2025 - present",
@@ -160,8 +161,9 @@ const experiences = [
   {
     title: "ThreePointoLabs",
     icon: threep,
+    company_name: "Software Developer",
     iconBg: "#000000",
-    date: "Jan 2025 - oct 2025",
+    date: "Jan 2025 - Oct 2025",
     points: [
       "Engineered core modules of Blue Cross admin web app using Next.js, PostgreSQL, and Typescript, building 10+ modules for vehicle & team management, improving coordination for 150+ monthly rescue missions and streamlining tasks for 8+ field teams",
       "Constructed mobile interfaces for Blue Cross using React Native to streamline rescue operations, enabling 60+ monthly capture and release reports driving workflow automation and further reducing operational costs by 50%",
@@ -174,7 +176,7 @@ const experiences = [
     icon: teli,
     company_name:"SDE Developer Intern",
     iconBg: "#000000",
-    date: "Oct 2024 - dec 2024",
+    date: "Oct 2024 - Dec 2024",
     points: [
       "Led the design and implementation of a user-friendly responsive web application using React.js and Tailwind CSS, inreasing user engagement by 30% and boosting positive ratings by an impressive 70%",
       "Led the design and implementation of a user-friendly responsive web application using React.js and Tailwind CSS, increasing user engagement by 30% and boosting positive ratings by an impressive 70%",
